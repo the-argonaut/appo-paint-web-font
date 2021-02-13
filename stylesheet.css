@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'appo paint';
-    src: url('appopaint-Regular.eot');
-    src: url('appopaint-Regular.eot?#iefix') format('embedded-opentype'),
-        url('appopaint-Regular.woff2') format('woff2'),
-        url('appopaint-Regular.woff') format('woff'),
-        url('appopaint-Regular.ttf') format('truetype'),
-        url('appopaint-Regular.svg#appopaint-Regular') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/the-argonaut/appo-paint-web-font/appopaint-Regular.svg#appopaint-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
